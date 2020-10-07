@@ -10,7 +10,7 @@ title: Open positions
 
 A 2-year postdoc position is available for a researcher with an interest in cognitive neuroscience, electroencephalography (EEG), and machine learning. 
 
-The position will be based at the University of Bern, Switzerland, in between the [Institute of Computer Science](https://www.inf.unibe.ch/index_eng.html) and [sitem-insel](https://sitem-insel.ch/en), under the supervision of Athina Tzovara. Our group is studying the neural mechanisms underlying predictive processes in humans and their link to consciousness or decisions. We are using high-density EEG, MEG and ECoG recordings, in combination with machine learning and computational modeling techniques.
+The position will be based at the University of Bern, Switzerland, at the [Institute of Computer Science](https://www.inf.unibe.ch/index_eng.html) and [sitem-insel](https://sitem-insel.ch/en), under the supervision of Athina Tzovara. Our group is studying the neural mechanisms underlying predictive processes in humans and their link to consciousness or decisions. We are using high-density EEG, MEG and ECoG recordings, in combination with machine learning and computational modeling techniques.
 
 The open postdoc position will study the neural and computational mechanisms that allow humans to anticipate the outcome of their decisions. Being able to plan future decisions and anticipate their outcome is a crucial cross-species skill for survival. However, the temporal dynamics and computational processes underlying this neural ability in humans are underexplored.
 
