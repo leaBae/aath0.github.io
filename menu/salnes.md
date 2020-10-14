@@ -14,4 +14,4 @@ Email: sigurd.alnes@inf.unibe.ch<br/>
 
 ---
 #### Bio
-Under Construction
+My research uses scalp and intracranial electrophysiological recordings to study human cognition. I am particularly interested in how processing of sensory stimuli and how we detect and use statistical rules in sensory stimuli is modulated by level of consciousness. During my Masters studies at the University of Oslo, Norway, I studied the use of neurofeedback to up-regulate frontal theta.
