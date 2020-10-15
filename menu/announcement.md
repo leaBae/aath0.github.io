@@ -30,7 +30,7 @@ To address this question, the selected candidate will design novel EEG experimen
 -	Interdisciplinary & international research environment
 
 *Applications:*
-Applications will be accepted until the positions are filled. The first review of applications will begin on the 26th October 2020. If you are interested, please send one pdf-document including your CV, a brief statement of research interests, and the contact details of two referees to:  
+Applications will be accepted until the positions are filled. The first review of applications will begin on the 2nd November 2020. If you are interested, please send one pdf-document including your CV, a brief statement of research interests, and the contact details of two referees to:  
 Athina Tzovara: athina.tzovara@inf.unibe.ch
 Informal inquiries are welcome.
 
